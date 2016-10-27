@@ -85,25 +85,35 @@
     padding: 0;
   }
 
+/* Change the color of the Link  */
+/* text in the left menu below   */
   nav ul a {
     color: darkgreen;
     text-decoration: none;
   }
 
+  /* Change the background color    */
+  /* of the header and footer below */
   #header, #footer {
     font-size: large;
     padding: 0.3em;
     background: #BCCE98;
   }
 
+  /* Change the background color */
+  /* of the left column below    */
   #left {
     background: #DAE9BC;
   }
 
+  /* Change the background color  */
+  /* of the right column below    */
   #right {
     background: #F7FDEB;
   }
 
+  /* Change the background color  */
+  /* of the center column below    */
   #center {
     background: #fff;
   }
