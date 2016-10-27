@@ -85,13 +85,6 @@
     padding: 0;
   }
 
-/* Change the color of the Link  */
-/* text in the left menu below   */
-  nav ul a {
-    color: darkgreen;
-    text-decoration: none;
-  }
-
   /* Change the background color    */
   /* of the header and footer below */
   #header, #footer {
