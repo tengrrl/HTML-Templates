@@ -1,6 +1,9 @@
 h3, ul, ul.li {
   font-family:Sans-serif;
 }
+h3 {
+      padding: 15px;
+}
 /* Change the color of the Link  */
 /* text in the left menu below   */
   ul a {
